@@ -1,0 +1,122 @@
+[
+  {
+    "index": 1,
+    "userPublicKey": "GAGEFZYSDZQA5LRC5NXX4FAO4SUHE2FWZ6H7RX4IJMOOBJT7C4H6PXSW",
+    "action": "claim_voucher",
+    "voucherId": 2,
+    "amount": "25 USDC",
+    "txHash": "ad6e2acad6348c3e800457eaf51ec358fc1dfb1ad524628dd0d1c5c6e451de7a",
+    "ledger": 4206791,
+    "timestamp": "2026-08-18T12:26:29.553Z",
+    "explorerUrl": "https://stellar.expert/explorer/testnet/tx/ad6e2acad6348c3e800457eaf51ec358fc1dfb1ad524628dd0d1c5c6e451de7a",
+    "status": "SUCCESS (Confirmed on Ledger)"
+  },
+  {
+    "index": 2,
+    "userPublicKey": "GCNXCU46B2E65WYNRJQJYQS2AWD2DWNAGVQEDNIMPKS4L6NWLE3AAXFV",
+    "action": "redeem_voucher",
+    "voucherId": 3,
+    "amount": "50 USDC",
+    "txHash": "f66e253670db3ac4bbdfdf05748f8cf54673a425649eea98e9b25f95cb4eec53",
+    "ledger": 4206793,
+    "timestamp": "2026-08-18T12:26:39.551Z",
+    "explorerUrl": "https://stellar.expert/explorer/testnet/tx/f66e253670db3ac4bbdfdf05748f8cf54673a425649eea98e9b25f95cb4eec53",
+    "status": "SUCCESS (Confirmed on Ledger)"
+  },
+  {
+    "index": 3,
+    "userPublicKey": "GA52JFDX7ZEFJMUFCDJBQMHBF6EQVHYJHWYVE3E2RGIN2H4WZO3FLXLW",
+    "action": "issue_voucher",
+    "voucherId": 1,
+    "amount": "75 USDC",
+    "txHash": "143c6791eaed64596ab90ebfc7d0dca10fe314ea758fb008882fc3c62595189d",
+    "ledger": 4206795,
+    "timestamp": "2026-08-18T12:26:49.545Z",
+    "explorerUrl": "https://stellar.expert/explorer/testnet/tx/143c6791eaed64596ab90ebfc7d0dca10fe314ea758fb008882fc3c62595189d",
+    "status": "SUCCESS (Confirmed on Ledger)"
+  },
+  {
+    "index": 4,
+    "userPublicKey": "GAXHFCUXWWBEHJKOZZQ3TDBYBE4675UH3HVF2A75S3G4XPPAKSCQ3NXS",
+    "action": "burn_coupon",
+    "voucherId": 2,
+    "amount": "100 USDC",
+    "txHash": "7f11523250f591630f707efc7a068f9b45d71680add7c6a5d81d9010bc5c5715",
+    "ledger": 4206797,
+    "timestamp": "2026-08-18T12:26:59.944Z",
+    "explorerUrl": "https://stellar.expert/explorer/testnet/tx/7f11523250f591630f707efc7a068f9b45d71680add7c6a5d81d9010bc5c5715",
+    "status": "SUCCESS (Confirmed on Ledger)"
+  },
+  {
+    "index": 5,
+    "userPublicKey": "GDQ3J7MUTOBRAXEYRGSKQ6LN4Q7ZS6ERVIJ3RU5K2QKR527RQLHCBGUO",
+    "action": "claim_voucher",
+    "voucherId": 3,
+    "amount": "125 USDC",
+    "txHash": "a94ed1821029bec34f69732b4732e4eef8f75cc09ee2ae160e7108e1578d274a",
+    "ledger": 4206799,
+    "timestamp": "2026-08-18T12:27:09.552Z",
+    "explorerUrl": "https://stellar.expert/explorer/testnet/tx/a94ed1821029bec34f69732b4732e4eef8f75cc09ee2ae160e7108e1578d274a",
+    "status": "SUCCESS (Confirmed on Ledger)"
+  },
+  {
+    "index": 6,
+    "userPublicKey": "GBJVPRE5JBLGAAA5EBNZSTPPRJN5JOSHP4FXFWV4MQFUT3JLLBMINU36",
+    "action": "redeem_voucher",
+    "voucherId": 1,
+    "amount": "150 USDC",
+    "txHash": "f1e50c650ba72f0a5520e1b9c358be2866e8b8ec8838f60b3d7580d091770cd0",
+    "ledger": 4206801,
+    "timestamp": "2026-08-18T12:27:19.553Z",
+    "explorerUrl": "https://stellar.expert/explorer/testnet/tx/f1e50c650ba72f0a5520e1b9c358be2866e8b8ec8838f60b3d7580d091770cd0",
+    "status": "SUCCESS (Confirmed on Ledger)"
+  },
+  {
+    "index": 7,
+    "userPublicKey": "GBSUBOAYSR4SXEIVAPYQLLIQUC6MTJB2PIIFSGB7J7KNBTB76GA6T77O",
+    "action": "issue_voucher",
+    "voucherId": 2,
+    "amount": "175 USDC",
+    "txHash": "5bb3706794518d60af6d4e5f21ac689482193e4a06370a042a2d7a3241fb735f",
+    "ledger": 4206803,
+    "timestamp": "2026-08-18T12:27:29.550Z",
+    "explorerUrl": "https://stellar.expert/explorer/testnet/tx/5bb3706794518d60af6d4e5f21ac689482193e4a06370a042a2d7a3241fb735f",
+    "status": "SUCCESS (Confirmed on Ledger)"
+  },
+  {
+    "index": 8,
+    "userPublicKey": "GAKDAXVAQMLENXTKXAKESETZBQXYQELUZLNVYBFKS2RYXFWVFXNPJSYR",
+    "action": "burn_coupon",
+    "voucherId": 3,
+    "amount": "200 USDC",
+    "txHash": "3774791ea5c6da0e2ee2060250ee26f6c4685642642585862e59b23fd040803c",
+    "ledger": 4206805,
+    "timestamp": "2026-08-18T12:27:39.543Z",
+    "explorerUrl": "https://stellar.expert/explorer/testnet/tx/3774791ea5c6da0e2ee2060250ee26f6c4685642642585862e59b23fd040803c",
+    "status": "SUCCESS (Confirmed on Ledger)"
+  },
+  {
+    "index": 9,
+    "userPublicKey": "GCOK74QPSXZESPMDK5K65ALFRPIB2ZED6J433J24ES2XN5K2LRVZTQUC",
+    "action": "claim_voucher",
+    "voucherId": 1,
+    "amount": "225 USDC",
+    "txHash": "92bef32d3ae0b8f1705e0f21988d54c7f22b1c6125bd1600f978cbfc26c37274",
+    "ledger": 4206807,
+    "timestamp": "2026-08-18T12:27:49.947Z",
+    "explorerUrl": "https://stellar.expert/explorer/testnet/tx/92bef32d3ae0b8f1705e0f21988d54c7f22b1c6125bd1600f978cbfc26c37274",
+    "status": "SUCCESS (Confirmed on Ledger)"
+  },
+  {
+    "index": 10,
+    "userPublicKey": "GBKMDXOUUGXEHZC5DNVSPTMAJNPMC2LAHY6B5GAQSYDTCKCJ7NSEQ3FC",
+    "action": "redeem_voucher",
+    "voucherId": 2,
+    "amount": "250 USDC",
+    "txHash": "ed089b7e3ccf9e0e42dbea9654d2ea5758385b75872572f9dd096665491d9b0b",
+    "ledger": 4206809,
+    "timestamp": "2026-08-18T12:27:59.549Z",
+    "explorerUrl": "https://stellar.expert/explorer/testnet/tx/ed089b7e3ccf9e0e42dbea9654d2ea5758385b75872572f9dd096665491d9b0b",
+    "status": "SUCCESS (Confirmed on Ledger)"
+  }
+]
