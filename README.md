@@ -16,9 +16,12 @@
 **NovaPass** is a Web3 Digital Voucher and Loyalty Platform built on the **Stellar Blockchain (Soroban Testnet)**. It empowers businesses (retail, festivals, e-commerce) to issue, manage, and redeem programmable digital vouchers, single-use coupons, and loyalty points using Stellar assets and Soroban smart contracts with zero user friction.
 
 - **Repository**: [https://github.com/nagarekhushi04/NovaPass.git](https://github.com/nagarekhushi04/NovaPass.git)
+- **Demo Video (Loom)**: [Watch 2-Min Demo Video ↗](https://www.loom.com/share/5bb081b17f7240099152ba89ceb166db)
 - **Deployment Status**: Active on Stellar Soroban Testnet
 
 NovaPass combines an **immersive, full-viewport cinematic hero interface** with decentralized Soroban smart contracts, instantaneous transaction finality (~2.8s), dynamic anti-replay QR verification, and multi-wallet support.
+
+🎥 **Demo Video Link**: [https://www.loom.com/share/5bb081b17f7240099152ba89ceb166db](https://www.loom.com/share/5bb081b17f7240099152ba89ceb166db)
 
 ---
 
